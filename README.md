@@ -4,7 +4,7 @@
 
 Submitted by: **Hetvi Shah**
 
-Time spent: **2** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## User Stories
 
